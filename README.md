@@ -1,7 +1,3 @@
-# 💫 About Me:
-👩🏻‍💻I'm currently working on site which include social media elements.<br>📌I'm looking for a job as a Frontend developer.<br>💻I'm currently learning React and Three.js.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iaroslava-slobodean-7a8483217) 
 
